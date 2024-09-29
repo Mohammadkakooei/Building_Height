@@ -15,6 +15,7 @@ git clone https://github.com/Mohammadkakooei/Building_Height.git
 cd Building_Height
 pip install -r requirements.txt
 
+#!/bin/bash
 echo
 
 ## Data repo
