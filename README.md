@@ -11,14 +11,13 @@ This project uses Sentinel-1 radar data and nighttime light data to estimate bui
 ## Installation
 Clone this repository and install the required packages:
 
-**
 ```bash
 git clone https://github.com/Mohammadkakooei/Building_Height.git
 cd Building_Height
 pip install -r requirements.txt
-**
 
-## Data repo
+
+# Data repo
 Data repository includes downloaindg data samples for shallow models and data patches for deep models. Furthermore, it contains pre-preocessing of data cleaning, generating TFrecords etc.
 
 Export CSV samples for feature analysis and training shallow models [Python Script](https://github.com/Mohammadkakooei/Building_Height/blob/6cfdf2a0422e25d413f9bcf5ff560431a0b17140/Data/Export_sample.js)
