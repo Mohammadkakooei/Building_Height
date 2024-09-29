@@ -26,3 +26,5 @@ Export satellite data patches for training deep models for building height estim
 
 Data cleaning of patches [Python Script](https://github.com/Mohammadkakooei/Building_Height/blob/6cfdf2a0422e25d413f9bcf5ff560431a0b17140/Data/Clean_Data_Patches.ipynb)
 
+Convert raster to TFrecord [Python Script](https://github.com/Mohammadkakooei/Building_Height/blob/fadf8a6fc8d147727fc4def7c492827bb34420cd/Data/ConvertRaster2tfrecord.ipynb)
+
