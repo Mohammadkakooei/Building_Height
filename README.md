@@ -10,7 +10,9 @@ This project uses Sentinel-1 radar data and nighttime light data to estimate bui
 
 ## Installation
 Clone this repository and install the required packages:
+
 **
+```bash
 git clone https://github.com/Mohammadkakooei/Building_Height.git
 cd Building_Height
 pip install -r requirements.txt
