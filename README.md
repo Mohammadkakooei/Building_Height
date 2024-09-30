@@ -45,6 +45,7 @@ Generate a mosaic building height map from predicted GeoTifs [Jupyter Notebook](
 
 [GEE app showing the building height map](https://temporary.users.earthengine.app/view/height2iran)
 
+![image](https://github.com/user-attachments/assets/ecaa6807-1880-4c22-923d-9f2ef1915639)
 
 
 
