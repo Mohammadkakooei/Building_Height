@@ -28,3 +28,12 @@ Data cleaning of patches [Python Script](https://github.com/Mohammadkakooei/Buil
 
 Convert raster to TFrecord [Python Script](https://github.com/Mohammadkakooei/Building_Height/blob/fadf8a6fc8d147727fc4def7c492827bb34420cd/Data/ConvertRaster2tfrecord.ipynb)
 
+## Feature Analysis Using Shallow Models
+Shallow regression algorithms are applied to reduce model uncertainty and explore how different feature configurations contribute to building height estimation. Various scenarios are compared to identify the most informative features. The following regressors are utilized in this phase: Ridge Regression (RR), Support Vector Regression with a Linear kernel (SVRL), Multi-Layer Perceptron Neural Networks (NNs), Gradient Boosting (GB), Random Forest (RF) with 100 tree estimators, and Voting (VOT).
+
+Feature analysis where Sentinel data just has VV and VH bands [Python Script](https://github.com/Mohammadkakooei/Building_Height/blob/3ab7da7d3e03be10b2187fdc1e08929fecf5a918/Feature%20Analysis%20Using%20Shallow%20Models/Feature_Regression_VV_VH.ipynb)
+
+Feature analysis where Sentinel data has VV, VH, HH, and HV bands [Python Script](https://github.com/Mohammadkakooei/Building_Height/blob/3ab7da7d3e03be10b2187fdc1e08929fecf5a918/Feature%20Analysis%20Using%20Shallow%20Models/Feature_Regression_Stockholm.ipynb)
+
+
+
