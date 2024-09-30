@@ -39,7 +39,9 @@ Feature analysis where Sentinel data has VV, VH, HH, and HV bands [Python Script
 ## Building Height Map Using Deep Learning
 Training the deep model [Jupyter Notebook](https://github.com/Mohammadkakooei/Building_Height/blob/fd1ecd399eb3b73b54f10d598d134019a145c814/Building%20Height%20Map%20Using%20Deep%20Learning/Deep_UNET_Regression.ipynb)
 
+Load the trained model and predict the building height per patch and save it as GeoTif [Jupyter Notebook](https://github.com/Mohammadkakooei/Building_Height/blob/86f965a8e2d9a30d3c6a4b81fccdd26f8680fa8a/Building%20Height%20Map%20Using%20Deep%20Learning/LoadModel_TifOutput.ipynb)
 
+Generate a mosaic building height map from predicted GeoTifs [Jupyter Notebook](https://github.com/Mohammadkakooei/Building_Height/blob/86f965a8e2d9a30d3c6a4b81fccdd26f8680fa8a/Building%20Height%20Map%20Using%20Deep%20Learning/LoadModel_TifOutput.ipynb)
 
 
 
