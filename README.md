@@ -43,9 +43,9 @@ Load the trained model and predict the building height per patch and save it as 
 
 Generate a mosaic building height map from predicted GeoTifs [Jupyter Notebook](https://github.com/Mohammadkakooei/Building_Height/blob/86f965a8e2d9a30d3c6a4b81fccdd26f8680fa8a/Building%20Height%20Map%20Using%20Deep%20Learning/LoadModel_TifOutput.ipynb)
 
-[GEE app showing the building height map](https://temporary.users.earthengine.app/view/height2iran)
+[GEE app showing the building height map of Mazandaran, Iran](https://temporary.users.earthengine.app/view/mazandaranheight)
 
-![image](https://github.com/user-attachments/assets/ecaa6807-1880-4c22-923d-9f2ef1915639)
+![image](https://github.com/user-attachments/assets/f046cc15-d4cd-4a0d-91cd-18746f549ded)
 
 
 
